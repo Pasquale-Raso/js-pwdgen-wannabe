@@ -33,6 +33,6 @@ console.log(colorepreferito);
 
 
 
-title.innerHTML = 'Benvenuto: ' + name + cognome;
-colorepreferito.innerHTML = 'il tuo colore preferito è il: '+ color;
+title.innerHTML = 'Benvenuto: ' + name + ' ' + cognome;
+colorepreferito.innerHTML = 'il tuo colore preferito è: '+ color;
 password.innerHTML = 'La tua password è: '+ name + cognome + color + 21;
